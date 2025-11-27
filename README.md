@@ -19,7 +19,5 @@ It's a discord bot
 - **Direct Message Content Notifications**  
   Effortlessly direct message a list of users that you've specified in the python code about new content from your YouTube Channel using the YouTube Data API v3
 
-- **Wake-on-LAN & Sleep-on-LAN**  
-  Remotely wake or sleep devices to optimize power usage and accessibility.
 
   
