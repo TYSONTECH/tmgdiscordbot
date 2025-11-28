@@ -1,3 +1,5 @@
+<img width="1502" height="1241" alt="image" src="https://github.com/user-attachments/assets/f3727114-f499-4ccd-b7df-a4cf77662ade" />
+
 # YouTube discord bot
 
 a discord bot for discord that watches multiple youtube channels and sends notifications to discord text channels and selected users via dm when new videos are uploaded.
