@@ -1,4 +1,4 @@
-(https://img.shields.io/badge/t5sdevelopment-certified_a32-brightgreen?style=for-the-badge)
+[![T5S Certifier]([https://img.shields.io/discord/330944238910963714.svg](https://img.shields.io/badge/t5sdevelopment-certified_a32-brightgreen?style=for-the-badge))]([t5s.net](https://t5s-certifier.my.canva.site/))
 
 <img width="1502" height="1241" alt="image" src="https://github.com/user-attachments/assets/f3727114-f499-4ccd-b7df-a4cf77662ade" />
 
